@@ -7,6 +7,10 @@
 ------------
 - Smart query understanding (NLP)
 - Real-time order tracking
+
+https://github.com/user-attachments/assets/99160dc8-f497-48a4-8c67-8b64e4d86334
+
+
 - Product search & filtering
 - Inventory checking
 - Top product listings
