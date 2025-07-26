@@ -172,9 +172,3 @@ MIT License
 - Open GitHub issue
 - Email or raise discussion
 
-Chatbot Interface
-![Chatbot UI](./screenshots/WhatsApp-Image-2025-07-26-at-13.51.42_2f Status Feature
-
-![Order Status](./screenshots/WhatsApp-Image-2025-07-26-at-13.51.49_a Cards / Product List
-
-![Product List](./screenshots/WhatsApp-Image-2025-07-26-at-13.51.49_218a Example Queries
